@@ -21,19 +21,27 @@ The smart GNSS system is an android based mobile application that provides effic
 
 # TECHNOLOGY STACK <img src="g.png" width="40" align="left"/>
 
-<p>
-  <ul style="display:flex; gap:20px; padding-left:0; list-style-position= inside;">
-    
-&nbsp;&nbsp;&nbsp;&nbsp; <img src="l1.png" width="40" align="left"/> Flutter &nbsp;&nbsp;&nbsp;&nbsp; <img src="l2.png" width="30" align="left"/> Firebase
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <li> <img src="l3.png" width="40" align="left"/> OpenStreetMap(OSM) </li>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <li> <img src="l4.png" width="30" align="left"/> Java development kit(JDK) </li>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <li> <img src="l5.png" width="40" align="left"/> Gradle </li>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <li> <img src="l8.png" width="40" align="left"/> Notepad </li>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <li> <img src="l6.png" width="40" align="left"/> Android studio </li>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <li> <img src="l7.png" width="40" align="left"/> Visual studio </li>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <li> <img src="l9.png" width="40" align="left"/> Map tiler </li>
-  </ul>
-</p>
+<table> 
+<tr> 
+  <td> • <img src="l1.png" width="40" align="left"/> Flutter </td>
+  <td> • <img src="l2.png" width="30" align="left"/> Firebase </td> 
+</tr> 
+<tr> 
+  <td> • <img src="l3.png" width="40" align="left"/> OpenStreetMap(OSM) </td>
+  <td> • <img src="l4.png" width="30" align="left"/> Java development kit(JDK) </td> 
+</tr> 
+<tr> 
+  <td> • <img src="l5.png" width="40" align="left"/> Gradle </td>
+  <td> • <img src="l8.png" width="40" align="left"/> Notepad </td> 
+</tr>
+<tr> 
+  <td> • <img src="l6.png" width="40" align="left"/> Android studio </td>
+  <td> • <img src="l7.png" width="40" align="left"/> Visual studio </td> 
+</tr> 
+<tr> 
+  <td> • <img src="l9.png" width="40" align="left"/> Map tiler </td>
+</tr> 
+</table>
     
 
 # Application working archietecture <img src="d.png" width="40" align="left"/>
