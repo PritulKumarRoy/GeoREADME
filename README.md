@@ -16,3 +16,10 @@ The smart GNSS system is an android based mobile application that provides effic
 
 
 # PROBLEM STATEMENTS <img src="g.png" width="40" align="left"/>
+
+1. Inaccurate reception of real-time location data.
+2. Real-time location track of any user with explicit, informed and revocable consent.
+3. Unavailability of a effecient mobile based system that can detect user location within predefined geographic areas while ensuring accuracy and low battery consumption.
+4. OpenStreetMap lacks real-time path trajectory display based on user location data and capture coordinate ability.
+
+# TECHNOLOGY STACK <img src="g.png" width="40" align="left"/>
