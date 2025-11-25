@@ -24,11 +24,11 @@ The smart GNSS system is an android based mobile application that provides effic
 <table> 
 <tr> 
   <td> • <img src="l1.png" width="40" align="left"/> Flutter </td>
-  <td> • <img src="l2.png" width="30" align="left"/> Firebase </td> 
+  <td> • <img src="l2.png" width="40" align="left"/> Firebase </td> 
 </tr> 
 <tr> 
   <td> • <img src="l3.png" width="40" align="left"/> OpenStreetMap(OSM) </td>
-  <td> • <img src="l4.png" width="30" align="left"/> Java development kit(JDK) </td> 
+  <td> • <img src="l4.png" width="40" align="left"/> Java development kit(JDK) </td> 
 </tr> 
 <tr> 
   <td> • <img src="l5.png" width="40" align="left"/> Gradle </td>
