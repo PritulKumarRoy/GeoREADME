@@ -8,14 +8,8 @@ The smart GNSS system is an android based mobile application that provides effic
 
 # OBJECTIVES <img src="f.png" width="40" align="left"/>
 
-<table> 
-<tr>
-<td>1. Provide robust geofencing.</td>  
-<td>2. Provide accurate real-time location data.</td>
-</tr> 
-3. Provide real-time location sharing(with consent).
-4. Deliver map(OSM) navigation with access to various map tiles.                   5. Offer capture coordinate feature.
-</table>
+• Provide robust geofencing.    • Provide accurate real-time location data.    • Provide real-time location sharing(with consent).
+• Deliver map(OSM) navigation with access to various map tiles.                • Offer capture coordinate feature.
 
 # PROBLEM STATEMENTS <img src="g.png" width="40" align="left"/>
 
