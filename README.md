@@ -6,9 +6,13 @@
 The smart GNSS system is an android based mobile application that provides efficient geofencing, location tracking and map navigation. This platform aims to solve real-world issues related to geofencing, location accuracy and navigation efficiency.
 
 
+
+
 # OBJECTIVES <img src="f.png" width="40" align="left"/>
 
 • Provide robust geofencing.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • Provide accurate real-time location data.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • Provide real-time location sharing(with consent).&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • Deliver map(OSM) navigation with access to various map tiles.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • Offer capture coordinate feature.
+
+
 
 
 # PROBLEM STATEMENTS <img src="g.png" width="40" align="left"/>
@@ -17,6 +21,8 @@ The smart GNSS system is an android based mobile application that provides effic
 2. Real-time location track of any user with explicit, informed and revocable consent.
 3. Unavailability of a effecient mobile based system that can detect user location within predefined geographic areas while ensuring accuracy and low battery consumption.
 4. OpenStreetMap lacks real-time path trajectory display based on user location data and capture coordinate ability.
+
+
 
 
 # TECHNOLOGY STACK <img src="g.png" width="40" align="left"/>
@@ -44,7 +50,9 @@ The smart GNSS system is an android based mobile application that provides effic
 </table>
     
 
+
+
 # Application working archietecture <img src="d.png" width="40" align="left"/>
 
-<img src="h.png" height="1000" width="100" align="center"/>
+<img src="h.png" height="10000000000" width="100" align="center"/>
   
