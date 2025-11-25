@@ -8,11 +8,7 @@ The smart GNSS system is an android based mobile application that provides effic
 
 # OBJECTIVES <img src="f.png" width="40" align="left"/>
 
-1. Provide robust geofencing.
-2. Provide accurate real-time location data.
-3. Provide real-time location sharing(with consent).
-4. Deliver map(OSM) navigation with access to various map tiles.
-5. Offer capture coordinate feature.
+1. Provide robust geofencing. &nbsp;&nbsp; 2. Provide accurate real-time location data. &nbsp;&nbsp; 3. Provide real-time location sharing(with consent). &nbsp;&nbsp; 4. Deliver map(OSM) navigation with access to various map tiles. &nbsp;&nbsp; 5. Offer capture coordinate feature.
 
 
 # PROBLEM STATEMENTS <img src="g.png" width="40" align="left"/>
@@ -27,9 +23,9 @@ The smart GNSS system is an android based mobile application that provides effic
 
 <p>
   <ul style="display:flex; gap:20px; padding-left:0; list-style-position= inside;">
-    <li> ### Flutter &nbsp;&nbsp;</li>
-    <li> ### Firebase &nbsp;&nbsp;</li>
-    <li> ### OpenStreetMap(OSM) &nbsp;&nbsp;</li>
+    <li> ### Flutter </li>
+    <li> ### Firebase </li>
+    <li> ### OpenStreetMap(OSM) </li>
     <li> ### Java development kit(JDK) </li>
     <li> ### Gradle </li>
     <li> ### Notepad </li>
