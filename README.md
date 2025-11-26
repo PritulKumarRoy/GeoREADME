@@ -55,8 +55,8 @@ The smart GNSS system is an android based mobile application that provides effic
 # Mobile interfaces <img src="d.png" width="40" align="left"/>
 <br>
 
-<table style ("border-collapse: collapse;")> 
-  <tr>
+<table> 
+  <tr valign="top">
   <td style ("border: none; text-align: left;">
   <h3>Registration screen</h3>
   <img src="sa.png" width="300>
@@ -69,7 +69,7 @@ The smart GNSS system is an android based mobile application that provides effic
   </tr>
     <br>
     
-  <tr>
+  <tr valign="top">
   <td style ("border: none; text-align: left;">
   <h3>Home screen</h3>
   <img src="sc.png" width="300>
@@ -82,7 +82,7 @@ The smart GNSS system is an android based mobile application that provides effic
   </tr>
 <br>
     
-  <tr>
+  <tr valign="top">
   <td style ("border: none; text-align: left;">
   <h3>Custom geofence screen (Button 2)</h3>
   <img src="se.png" width="300>
