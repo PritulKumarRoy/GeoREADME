@@ -50,4 +50,44 @@ The smart GNSS system is an android based mobile application that provides effic
 <br>
 
 <p align="center"> <img src="h.png" height="100000" width="500"/> </p>
+
+# Mobile interfaces <img src="d.png" width="40" align="left"/>
+<br>
+
+<table style ("border-collapse: collapse;")> 
+  <tr>
+  <td style ("border: none; text-align: left;">
+  <h3>Registration screen</h3>
+  <img src="sa.png" width="300>
+    </td>
+  <td style ("border: none; text-align: left;">
+  <h3>Login screen</h3>
+  <img src="sb.png" width="300>
+    </td>
+  </tr>
+    <br>
+    
+  <tr>
+  <td style ("border: none; text-align: left;">
+  <h3>Home screen</h3>
+  <img src="sc.png" width="300>
+    </td>
+  <td style ("border: none; text-align: left;">
+  <h3>Location tracking screen (Button 1)</h3>
+  <img src="sd.png" width="300>
+    </td>
+  </tr>
+<br>
+    
+  <tr>
+  <td style ("border: none; text-align: left;">
+  <h3>Custom geofence screen (Button 2)</h3>
+  <img src="se.png" width="300>
+    </td>
+  <td style ("border: none; text-align: left;">
+  <h3>Map screen (Button 3)</h3>
+  <img src="sf.png" width="300>
+    </td>
+  </tr>
+</table>
   
