@@ -75,13 +75,13 @@ The smart GNSS system is an android based mobile application that provides effic
   <td style ("border: none; text-align: left;">
   <h3>Home screen</h3>
     <br>
-  <img src="sc.png" width="300>
+  <img src="sc.png" width="300">
     </td><br>
     
   <td style ("border: none; text-align: left;">
   <h3>Location tracking screen</h3>
     <br>
-  <img src="sd.png" width="300>
+  <img src="sd.png" width="300">
     </td>
   </tr>
 <br><br>
@@ -90,13 +90,13 @@ The smart GNSS system is an android based mobile application that provides effic
   <td style ("border: none; text-align: left;">
   <h3>Custom geofence screen</h3>
     <br>
-  <img src="se.png" width="300>
+  <img src="se.png" width="300">
     </td><br>
     
   <td style ("border: none; text-align: left;">
   <h3>Map screen</h3>
     <br>
-  <img src="sf.png" width="300>
+  <img src="sf.png" width="300">
     </td>
   </tr>
 <br><br>
