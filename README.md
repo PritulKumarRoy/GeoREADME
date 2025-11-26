@@ -124,11 +124,42 @@ The smart GNSS system is an android based mobile application that provides effic
 </div>
 
 <div style ("width: 45%; min-width: 300px;">
-<h3>Home page</h3>
+<h3>Home screen</h3>
 <ul> 
   <li> User profile display </li>
   <li> Display of the '3' main buttons of the application </li>
   <li> User logout access </li> 
+</ul> 
+</div>
+
+<div style ("width: 45%; min-width: 300px;">
+<h3>Location tracking screen</h3>
+<ul> 
+  <li> User current location data analytics display </li>
+  <li> Real-time location check against pre-defined geofence boundary with proper fingerprint authentication in order to detect an user is currently 'inside' or 'outside' the boundary </li>
+  <li> Based on final result displayed on screen, quick notification triggering happens with the result being saved in 'firebase' backend database </li>
+  <li> Until the screen is active the real-time location tracking goes on with updated analytics data </li>
+  <li> Until and unless the screen gets inactive, continious real-time location data fetching goes on to the 'firebase' backend database </li>
+</ul> 
+</div>
+
+<div style ("width: 45%; min-width: 300px;">
+<h3>Custom geofence screen</h3>
+<ul> 
+  <li> Any user's real-time location check against pre-defined geofence boundary only with availability of 'latitude' and 'longitude' data </li>
+  <li> User real-time path trajectory track on OSM display with analytics </li>
+  <li> Real-time multiple user's location sharing and display on map (with user consent)</li> 
+  <li> Access to versatile map tiles like satellite view, street view, etc </li>
+</ul> 
+</div>
+
+<div style ("width: 45%; min-width: 300px;">
+<h3>Map screen</h3>
+<ul> 
+  <li> OpenStreetMap display with location navigation </li>
+  <li> Capture coordinate ability by clicking on any location of map </li>
+  <li> Database within application for storing, copyieng and deletion of coordinates being captured </li>
+  <li> Access to versatile map tiles like satellite view, street view, etc </li>
 </ul> 
 </div>
 
