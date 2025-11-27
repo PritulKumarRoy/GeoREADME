@@ -186,7 +186,7 @@ The smart GNSS system is an android based mobile application that provides effic
   border-radius: 6px; 
   color: white; 
   background: transparent; 
-  display: inline-block;
+  display: inline-block;">
   
   FINAL NOTE </h3>
 
