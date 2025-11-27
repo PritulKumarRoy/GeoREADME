@@ -53,7 +53,7 @@ The smart GNSS system is an android based mobile application that provides effic
 <br><br>
 
 # MOBILE INTERFACES <img src="i.png" width="40" align="left"/>
-<br>
+
 <table> 
   <tr valign="top">
   <td style ("border: none; text-align: left;">
@@ -173,6 +173,12 @@ The smart GNSS system is an android based mobile application that provides effic
 
 # FUTURE POTENTIAL <img src="j.png" width="40" align="left"/>
 <br>
+
+• Robust geofence setup: The system can inject any geofence boundary into the application. This opens the door for advanced use cases such as region-based workflows, restricted area based detection and customizable location rules. It makes the project highly flexible and adaptable to real-world scenarios.
+&nbsp;&nbsp;
+
+• Consent based multiple user tracking: With only after proper user consent, a single user can track the real-time locations of multiple users. This enables coordinated movement, team management and safety monitoring while ensuring privacyand user control remain a priority.
+<br><br>
 
 
 
