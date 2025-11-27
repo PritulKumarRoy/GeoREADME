@@ -178,7 +178,7 @@ The smart GNSS system is an android based mobile application that provides effic
 &nbsp;&nbsp;
 
 • Consent based multiple user tracking: With only after proper user consent, a single user can track the real-time locations of multiple users. This enables coordinated movement, team management and safety monitoring while ensuring privacyand user control remain a priority.
-<br><br>
+<br><br><br>
 
 <div style=" 
   padding: 10px; 
@@ -189,8 +189,7 @@ The smart GNSS system is an android based mobile application that provides effic
   display: inline-block;">
   
   FINAL NOTE </div>
-  <br>
-
+  
   <p> Thanks for reading! If you like this project please ⭐ the repo and feel to open issues or PRs. Suggestions are always welcome! </p>
 
 
