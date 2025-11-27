@@ -1,4 +1,6 @@
-# SMART GNSS SYSTEM
+<h1> # SMART GNSS SYSTEM </h1>
+background: #180806;
+
 ## *A mobile application for geofencing, navigation and location-based services.*
 <br><br>
 
