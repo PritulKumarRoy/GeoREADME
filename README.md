@@ -2,7 +2,7 @@
   <img src="lo.png" width="120" height="120" alt="Smart GNSS System Logo"/>
 </div>
 
-<h1 align="center">SMART GNSS SYSTEM</h1>
+<h1 align="center">SMART GNSS SYSTEM | Geo</h1>
 <h3 align="center"><em>A mobile application for geofencing, navigation and location-based services.</em></h3>
 
 <br>
