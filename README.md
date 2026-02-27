@@ -36,89 +36,27 @@ The smart GNSS system is an android based mobile application that provides effic
 # TECHNOLOGY STACK <img src="g.png" width="40" align="left"/>
 <br>
 
-<!-- Two-column layout with balanced vertical stacking -->
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between;">
-  
-  <!-- Left column -->
-  <div style="flex: 1; min-width: 260px;">
-    <table style="width: 100%; border-collapse: separate; border-spacing: 0 12px;">
-      <tr>
-        <td style="background: #1e1e1e; padding: 14px 18px; border-radius: 14px 0 0 14px; width: 70px; text-align: center;">
-          <img src="l1.png" width="38" style="vertical-align: middle; display: block; margin: 0 auto;"/>
-        </td>
-        <td style="background: #1e1e1e; padding: 14px 18px; border-radius: 0 14px 14px 0; font-weight: 600; font-size: 1.1rem;">Flutter</td>
-      </tr>
-      <tr>
-        <td style="background: #1e1e1e; padding: 14px 18px; border-radius: 14px 0 0 14px; text-align: center;">
-          <img src="l3.png" width="38" style="vertical-align: middle; display: block; margin: 0 auto;"/>
-        </td>
-        <td style="background: #1e1e1e; padding: 14px 18px; border-radius: 0 14px 14px 0; font-weight: 600; font-size: 1.1rem;">OpenStreetMap</td>
-      </tr>
-      <tr>
-        <td style="background: #1e1e1e; padding: 14px 18px; border-radius: 14px 0 0 14px; text-align: center;">
-          <img src="l5.png" width="38" style="vertical-align: middle; display: block; margin: 0 auto;"/>
-        </td>
-        <td style="background: #1e1e1e; padding: 14px 18px; border-radius: 0 14px 14px 0; font-weight: 600; font-size: 1.1rem;">Gradle</td>
-      </tr>
-      <tr>
-        <td style="background: #1e1e1e; padding: 14px 18px; border-radius: 14px 0 0 14px; text-align: center;">
-          <img src="l6.png" width="38" style="vertical-align: middle; display: block; margin: 0 auto;"/>
-        </td>
-        <td style="background: #1e1e1e; padding: 14px 18px; border-radius: 0 14px 14px 0; font-weight: 600; font-size: 1.1rem;">Android Studio</td>
-      </tr>
-      <!-- Additional item to balance vertical space -->
-      <tr>
-        <td style="background: #1e1e1e; padding: 14px 18px; border-radius: 14px 0 0 14px; text-align: center;">
-          <img src="l8.png" width="38" style="vertical-align: middle; display: block; margin: 0 auto;"/>
-        </td>
-        <td style="background: #1e1e1e; padding: 14px 18px; border-radius: 0 14px 14px 0; font-weight: 600; font-size: 1.1rem;">Notepad</td>
-      </tr>
-    </table>
-  </div>
-  
-  <!-- Right column -->
-  <div style="flex: 1; min-width: 260px;">
-    <table style="width: 100%; border-collapse: separate; border-spacing: 0 12px;">
-      <tr>
-        <td style="background: #1e1e1e; padding: 14px 18px; border-radius: 14px 0 0 14px; text-align: center;">
-          <img src="l2.png" width="38" style="vertical-align: middle; display: block; margin: 0 auto;"/>
-        </td>
-        <td style="background: #1e1e1e; padding: 14px 18px; border-radius: 0 14px 14px 0; font-weight: 600; font-size: 1.1rem;">Firebase</td>
-      </tr>
-      <tr>
-        <td style="background: #1e1e1e; padding: 14px 18px; border-radius: 14px 0 0 14px; text-align: center;">
-          <img src="l4.png" width="38" style="vertical-align: middle; display: block; margin: 0 auto;"/>
-        </td>
-        <td style="background: #1e1e1e; padding: 14px 18px; border-radius: 0 14px 14px 0; font-weight: 600; font-size: 1.1rem;">Java JDK</td>
-      </tr>
-      <tr>
-        <td style="background: #1e1e1e; padding: 14px 18px; border-radius: 14px 0 0 14px; text-align: center;">
-          <img src="l7.png" width="38" style="vertical-align: middle; display: block; margin: 0 auto;"/>
-        </td>
-        <td style="background: #1e1e1e; padding: 14px 18px; border-radius: 0 14px 14px 0; font-weight: 600; font-size: 1.1rem;">Visual Studio</td>
-      </tr>
-      <tr>
-        <td style="background: #1e1e1e; padding: 14px 18px; border-radius: 14px 0 0 14px; text-align: center;">
-          <img src="l9.png" width="38" style="vertical-align: middle; display: block; margin: 0 auto;"/>
-        </td>
-        <td style="background: #1e1e1e; padding: 14px 18px; border-radius: 0 14px 14px 0; font-weight: 600; font-size: 1.1rem;">Map Tiler</td>
-      </tr>
-      <!-- Empty row for visual balance (invisible) -->
-      <tr style="opacity: 0; pointer-events: none;">
-        <td style="padding: 14px 18px;"></td>
-        <td style="padding: 14px 18px;"></td>
-      </tr>
-    </table>
-  </div>
-</div>
-
-<!-- Compact note to utilize remaining horizontal space -->
-<div style="display: flex; flex-wrap: wrap; gap: 15px; margin-top: 15px; justify-content: center; background: #1a1a1a; padding: 12px 20px; border-radius: 50px;">
-  <span style="color: #ccc; font-size: 0.95rem;">⚙️ <strong>Build tools:</strong> Gradle, JDK</span>
-  <span style="color: #ccc; font-size: 0.95rem;">📱 <strong>Frameworks:</strong> Flutter, Firebase</span>
-  <span style="color: #ccc; font-size: 0.95rem;">🗺️ <strong>Mapping:</strong> OSM, Map Tiler</span>
-  <span style="color: #ccc; font-size: 0.95rem;">🖥️ <strong>IDEs:</strong> Android Studio, VS, Notepad</span>
-</div>
+<table> 
+  <tr> 
+    <td> <img src="l1.png" width="40" style="vertical-align: middle; margin-right: 10px;"/> Flutter </td>
+    <td> <img src="l2.png" width="40" style="vertical-align: middle; margin-right: 10px;"/> Firebase </td> 
+  </tr> 
+  <tr> 
+    <td> <img src="l3.png" width="40" style="vertical-align: middle; margin-right: 10px;"/> OpenStreetMap (OSM) </td>
+    <td> <img src="l4.png" width="40" style="vertical-align: middle; margin-right: 10px;"/> Java Development Kit (JDK) </td> 
+  </tr> 
+  <tr> 
+    <td> <img src="l5.png" width="40" style="vertical-align: middle; margin-right: 10px;"/> Gradle </td>
+    <td> <img src="l8.png" width="40" style="vertical-align: middle; margin-right: 10px;"/> Notepad </td> 
+  </tr>
+  <tr> 
+    <td> <img src="l6.png" width="40" style="vertical-align: middle; margin-right: 10px;"/> Android Studio </td>
+    <td> <img src="l7.png" width="40" style="vertical-align: middle; margin-right: 10px;"/> Visual Studio </td> 
+  </tr> 
+  <tr> 
+    <td colspan="2"> <img src="l9.png" width="40" style="vertical-align: middle; margin-right: 10px;"/> Map Tiler </td>
+  </tr> 
+</table>
 <br><br>
 
 # APPLICATION WORKING ARCHITECTURE <img src="d.png" width="40" align="left"/>
