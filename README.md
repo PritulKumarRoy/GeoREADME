@@ -16,7 +16,13 @@ The smart GNSS system is an android based mobile application that provides effic
 
 # OBJECTIVES <img src="f.png" width="40" align="left"/>
 
-• Provide robust geofencing.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • Provide accurate real-time location data.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • Provide real-time location sharing (with consent).&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • Deliver map (OSM) navigation with access to various map tiles.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • Offer capture coordinate feature.
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
+  <span style="background: #2a2a2a; color: white; padding: 8px 15px; border-radius: 30px; font-size: 0.95rem;">🔲 Robust geofencing</span>
+  <span style="background: #2a2a2a; color: white; padding: 8px 15px; border-radius: 30px; font-size: 0.95rem;">📍 Accurate real-time location</span>
+  <span style="background: #2a2a2a; color: white; padding: 8px 15px; border-radius: 30px; font-size: 0.95rem;">👥 Location sharing (consent based)</span>
+  <span style="background: #2a2a2a; color: white; padding: 8px 15px; border-radius: 30px; font-size: 0.95rem;">🗺️ OSM navigation & map tiles</span>
+  <span style="background: #2a2a2a; color: white; padding: 8px 15px; border-radius: 30px; font-size: 0.95rem;">📸 Capture coordinates</span>
+</div>
 <br><br>
 
 # PROBLEM STATEMENTS <img src="g.png" width="40" align="left"/>
@@ -30,33 +36,78 @@ The smart GNSS system is an android based mobile application that provides effic
 # TECHNOLOGY STACK <img src="g.png" width="40" align="left"/>
 <br>
 
-<table> 
-  <tr> 
-    <td> <img src="l1.png" width="40" style="vertical-align: middle; margin-right: 10px;"/> Flutter </td>
-    <td> <img src="l2.png" width="40" style="vertical-align: middle; margin-right: 10px;"/> Firebase </td> 
-  </tr> 
-  <tr> 
-    <td> <img src="l3.png" width="40" style="vertical-align: middle; margin-right: 10px;"/> OpenStreetMap (OSM) </td>
-    <td> <img src="l4.png" width="40" style="vertical-align: middle; margin-right: 10px;"/> Java Development Kit (JDK) </td> 
-  </tr> 
-  <tr> 
-    <td> <img src="l5.png" width="40" style="vertical-align: middle; margin-right: 10px;"/> Gradle </td>
-    <td> <img src="l8.png" width="40" style="vertical-align: middle; margin-right: 10px;"/> Notepad </td> 
-  </tr>
-  <tr> 
-    <td> <img src="l6.png" width="40" style="vertical-align: middle; margin-right: 10px;"/> Android Studio </td>
-    <td> <img src="l7.png" width="40" style="vertical-align: middle; margin-right: 10px;"/> Visual Studio </td> 
-  </tr> 
-  <tr> 
-    <td colspan="2"> <img src="l9.png" width="40" style="vertical-align: middle; margin-right: 10px;"/> Map Tiler </td>
-  </tr> 
-</table>
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between;">
+  <div style="flex: 1; min-width: 250px;">
+    <table style="width: 100%; border-collapse: separate; border-spacing: 0 10px;">
+      <tr>
+        <td style="background: #1e1e1e; padding: 12px 15px; border-radius: 12px 0 0 12px; width: 60px;">
+          <img src="l1.png" width="35" style="vertical-align: middle;"/>
+        </td>
+        <td style="background: #1e1e1e; padding: 12px 15px; border-radius: 0 12px 12px 0; font-weight: 500;">Flutter</td>
+      </tr>
+      <tr>
+        <td style="background: #1e1e1e; padding: 12px 15px; border-radius: 12px 0 0 12px;">
+          <img src="l3.png" width="35" style="vertical-align: middle;"/>
+        </td>
+        <td style="background: #1e1e1e; padding: 12px 15px; border-radius: 0 12px 12px 0; font-weight: 500;">OpenStreetMap</td>
+      </tr>
+      <tr>
+        <td style="background: #1e1e1e; padding: 12px 15px; border-radius: 12px 0 0 12px;">
+          <img src="l5.png" width="35" style="vertical-align: middle;"/>
+        </td>
+        <td style="background: #1e1e1e; padding: 12px 15px; border-radius: 0 12px 12px 0; font-weight: 500;">Gradle</td>
+      </tr>
+      <tr>
+        <td style="background: #1e1e1e; padding: 12px 15px; border-radius: 12px 0 0 12px;">
+          <img src="l6.png" width="35" style="vertical-align: middle;"/>
+        </td>
+        <td style="background: #1e1e1e; padding: 12px 15px; border-radius: 0 12px 12px 0; font-weight: 500;">Android Studio</td>
+      </tr>
+    </table>
+  </div>
+  <div style="flex: 1; min-width: 250px;">
+    <table style="width: 100%; border-collapse: separate; border-spacing: 0 10px;">
+      <tr>
+        <td style="background: #1e1e1e; padding: 12px 15px; border-radius: 12px 0 0 12px;">
+          <img src="l2.png" width="35" style="vertical-align: middle;"/>
+        </td>
+        <td style="background: #1e1e1e; padding: 12px 15px; border-radius: 0 12px 12px 0; font-weight: 500;">Firebase</td>
+      </tr>
+      <tr>
+        <td style="background: #1e1e1e; padding: 12px 15px; border-radius: 12px 0 0 12px;">
+          <img src="l4.png" width="35" style="vertical-align: middle;"/>
+        </td>
+        <td style="background: #1e1e1e; padding: 12px 15px; border-radius: 0 12px 12px 0; font-weight: 500;">Java JDK</td>
+      </tr>
+      <tr>
+        <td style="background: #1e1e1e; padding: 12px 15px; border-radius: 12px 0 0 12px;">
+          <img src="l8.png" width="35" style="vertical-align: middle;"/>
+        </td>
+        <td style="background: #1e1e1e; padding: 12px 15px; border-radius: 0 12px 12px 0; font-weight: 500;">Notepad</td>
+      </tr>
+      <tr>
+        <td style="background: #1e1e1e; padding: 12px 15px; border-radius: 12px 0 0 12px;">
+          <img src="l7.png" width="35" style="vertical-align: middle;"/>
+        </td>
+        <td style="background: #1e1e1e; padding: 12px 15px; border-radius: 0 12px 12px 0; font-weight: 500;">Visual Studio</td>
+      </tr>
+      <tr>
+        <td style="background: #1e1e1e; padding: 12px 15px; border-radius: 12px 0 0 12px;">
+          <img src="l9.png" width="35" style="vertical-align: middle;"/>
+        </td>
+        <td style="background: #1e1e1e; padding: 12px 15px; border-radius: 0 12px 12px 0; font-weight: 500;">Map Tiler</td>
+      </tr>
+    </table>
+  </div>
+</div>
 <br><br>
 
 # APPLICATION WORKING ARCHITECTURE <img src="d.png" width="40" align="left"/>
 <br>
 
-<p align="center"> <img src="h.png" style="max-width: 500px; width: 100%; height: auto;" alt="Architecture Diagram"/> </p>
+<p align="center"> 
+  <img src="h.png" style="max-width: 650px; width: 100%; height: auto; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);"/> 
+</p>
 <br><br>
 
 # MOBILE INTERFACES <img src="i.png" width="40" align="left"/>
@@ -64,32 +115,32 @@ The smart GNSS system is an android based mobile application that provides effic
 <table style="width: 100%; border-collapse: collapse;"> 
   <tr valign="top">
     <td style="border: none; text-align: left; width: 50%; padding: 10px;">
-      <h3>Registration screen</h3>
-      <img src="sa.png" style="width: 100%; max-width: 400px; border-radius: 8px;">
+      <h4>📱 Registration screen</h4>
+      <img src="sa.png" style="width: 100%; max-width: 380px; border-radius: 20px; box-shadow: 0 8px 20px rgba(0,0,0,0.2);">
     </td>
     <td style="border: none; text-align: left; width: 50%; padding: 10px;">
-      <h3>Login screen</h3>
-      <img src="sb.png" style="width: 100%; max-width: 400px; border-radius: 8px;">
+      <h4>🔐 Login screen</h4>
+      <img src="sb.png" style="width: 100%; max-width: 380px; border-radius: 20px; box-shadow: 0 8px 20px rgba(0,0,0,0.2);">
     </td>
   </tr>
   <tr valign="top">
     <td style="border: none; text-align: left; padding: 10px;">
-      <h3>Home screen</h3>
-      <img src="sc.png" style="width: 100%; max-width: 400px; border-radius: 8px;">
+      <h4>🏠 Home screen</h4>
+      <img src="sc.png" style="width: 100%; max-width: 380px; border-radius: 20px; box-shadow: 0 8px 20px rgba(0,0,0,0.2);">
     </td>
     <td style="border: none; text-align: left; padding: 10px;">
-      <h3>Location tracking screen</h3>
-      <img src="sd.png" style="width: 100%; max-width: 400px; border-radius: 8px;">
+      <h4>📍 Location tracking screen</h4>
+      <img src="sd.png" style="width: 100%; max-width: 380px; border-radius: 20px; box-shadow: 0 8px 20px rgba(0,0,0,0.2);">
     </td>
   </tr>
   <tr valign="top">
     <td style="border: none; text-align: left; padding: 10px;">
-      <h3>Custom geofence screen</h3>
-      <img src="se.png" style="width: 100%; max-width: 400px; border-radius: 8px;">
+      <h4>🚧 Custom geofence screen</h4>
+      <img src="se.png" style="width: 100%; max-width: 380px; border-radius: 20px; box-shadow: 0 8px 20px rgba(0,0,0,0.2);">
     </td>
     <td style="border: none; text-align: left; padding: 10px;">
-      <h3>Map screen</h3>
-      <img src="sf.png" style="width: 100%; max-width: 400px; border-radius: 8px;">
+      <h4>🗺️ Map screen</h4>
+      <img src="sf.png" style="width: 100%; max-width: 380px; border-radius: 20px; box-shadow: 0 8px 20px rgba(0,0,0,0.2);">
     </td>
   </tr>
 </table>
@@ -98,62 +149,61 @@ The smart GNSS system is an android based mobile application that provides effic
 # KEY FUNCTIONS <img src="e.png" width="40" align="left"/>
 <br>
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
-  <div style="width: 45%; min-width: 300px;">
-    <h3>Registration screen</h3>
-    <ul> 
-      <li> New user account registration. </li>
-      <li> Old user account re-login. </li>
-      <li> User account deletion (if wanted). </li> 
+<div style="display: flex; flex-wrap: wrap; gap: 25px;">
+  <div style="flex: 1 1 40%; min-width: 280px; background: #0d0d0d; padding: 18px 20px; border-radius: 24px; border-left: 5px solid #4a90e2;">
+    <h3 style="margin-top: 0;">📝 Registration</h3>
+    <ul style="padding-left: 20px;"> 
+      <li>New user account registration</li>
+      <li>Re-login for existing users</li>
+      <li>Account deletion option</li> 
     </ul> 
   </div>
 
-  <div style="width: 45%; min-width: 300px;">
-    <h3>Login screen</h3>
-    <ul> 
-      <li> User account login (exact input of login credentials). </li>
-      <li> New user registration and re-login. </li>
-      <li> Access to main "Home page" of the application. </li> 
+  <div style="flex: 1 1 40%; min-width: 280px; background: #0d0d0d; padding: 18px 20px; border-radius: 24px; border-left: 5px solid #e24a4a;">
+    <h3 style="margin-top: 0;">🔑 Login</h3>
+    <ul style="padding-left: 20px;"> 
+      <li>Secure credential login</li>
+      <li>Navigation to registration</li>
+      <li>Access to home page</li> 
     </ul> 
   </div>
 
-  <div style="width: 45%; min-width: 300px;">
-    <h3>Home screen</h3>
-    <ul> 
-      <li> User profile display. </li>
-      <li> Display of the '3' main buttons of the application. </li>
-      <li> User logout access. </li> 
+  <div style="flex: 1 1 40%; min-width: 280px; background: #0d0d0d; padding: 18px 20px; border-radius: 24px; border-left: 5px solid #42a85f;">
+    <h3 style="margin-top: 0;">🏡 Home</h3>
+    <ul style="padding-left: 20px;"> 
+      <li>User profile display</li>
+      <li>Three main feature buttons</li>
+      <li>Logout access</li> 
     </ul> 
   </div>
 
-  <div style="width: 45%; min-width: 300px;">
-    <h3>Location tracking screen</h3>
-    <ul> 
-      <li> User current location data analytics display. </li>
-      <li> Real-time location check against pre-defined geofence boundary with proper fingerprint authentication in order to detect if a user is currently 'inside' or 'outside' the boundary. </li>
-      <li> Based on final result displayed on screen, quick notification triggering happens with the result being saved in the 'Firebase' backend database. </li>
-      <li> Until the screen is active, the real-time location tracking goes on with updated analytics data. </li>
-      <li> Continuous real-time location data is fetched to the 'Firebase' backend database until the screen becomes inactive. </li>
+  <div style="flex: 1 1 40%; min-width: 280px; background: #0d0d0d; padding: 18px 20px; border-radius: 24px; border-left: 5px solid #e2c14a;">
+    <h3 style="margin-top: 0;">📍 Location Tracking</h3>
+    <ul style="padding-left: 20px;"> 
+      <li>Real-time location analytics</li>
+      <li>Geofence check with fingerprint auth</li>
+      <li>Instant notifications & Firebase sync</li>
+      <li>Continuous location streaming</li>
     </ul> 
   </div>
 
-  <div style="width: 45%; min-width: 300px;">
-    <h3>Custom geofence screen</h3>
-    <ul> 
-      <li> Check any user's real-time location against a pre-defined geofence boundary using only 'latitude' and 'longitude' data. </li>
-      <li> Track user real-time path trajectory on OSM display with analytics. </li>
-      <li> Share and display real-time locations of multiple users on the map (with user consent). </li> 
-      <li> Access versatile map tiles like satellite view, street view, etc. </li>
+  <div style="flex: 1 1 40%; min-width: 280px; background: #0d0d0d; padding: 18px 20px; border-radius: 24px; border-left: 5px solid #9b4ae2;">
+    <h3 style="margin-top: 0;">🚧 Custom Geofence</h3>
+    <ul style="padding-left: 20px;"> 
+      <li>Location check via lat/long</li>
+      <li>Real-time trajectory on OSM</li>
+      <li>Multi-user location sharing (consent)</li> 
+      <li>Satellite, street view tiles</li>
     </ul> 
   </div>
 
-  <div style="width: 45%; min-width: 300px;">
-    <h3>Map screen</h3>
-    <ul> 
-      <li> OpenStreetMap display with location navigation. </li>
-      <li> Capture coordinate ability by clicking on any location on the map. </li>
-      <li> In-app database for storing, copying, and deleting captured coordinates. </li>
-      <li> Access to versatile map tiles like satellite view, street view, etc. </li>
+  <div style="flex: 1 1 40%; min-width: 280px; background: #0d0d0d; padding: 18px 20px; border-radius: 24px; border-left: 5px solid #e24a9b;">
+    <h3 style="margin-top: 0;">🗺️ Map</h3>
+    <ul style="padding-left: 20px;"> 
+      <li>OSM with navigation</li>
+      <li>Click-to-capture coordinates</li>
+      <li>In-app coordinate database</li>
+      <li>Multiple map tiles support</li>
     </ul> 
   </div>
 </div>
@@ -162,19 +212,31 @@ The smart GNSS system is an android based mobile application that provides effic
 # FUTURE POTENTIAL <img src="j.png" width="40" align="left"/>
 <br>
 
-• **Robust geofence setup:** The system can inject any geofence boundary into the application. This opens the door for advanced use cases such as region-based workflows, restricted area detection, and customizable location rules. It makes the project highly flexible and adaptable to real-world scenarios.
-
-• **Consent based multiple user tracking:** With proper user consent, a single user can track the real-time locations of multiple users. This enables coordinated movement, team management, and safety monitoring while ensuring privacy and user control remain a priority.
-<br><br><br><br>
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 250px; background: linear-gradient(145deg, #1a1a1a, #0a0a0a); padding: 20px; border-radius: 20px;">
+    <span style="font-size: 2rem;">📍</span>
+    <h3>Robust geofence setup</h3>
+    <p style="color: #ccc;">Inject any geofence boundary — enabling region-based workflows, restricted area detection, and fully customizable location rules.</p>
+  </div>
+  <div style="flex: 1; min-width: 250px; background: linear-gradient(145deg, #1a1a1a, #0a0a0a); padding: 20px; border-radius: 20px;">
+    <span style="font-size: 2rem;">👥</span>
+    <h3>Consent based multi-user tracking</h3>
+    <p style="color: #ccc;">Track multiple users in real-time with explicit consent — perfect for team coordination, safety monitoring, and privacy-first design.</p>
+  </div>
+</div>
+<br><br><br>
 
 <div style=" 
-  padding: 10px 20px; 
-  outline: 3px solid white;
-  border-radius: 6px; 
+  padding: 12px 28px; 
+  outline: 3px solid #4a90e2;
+  border-radius: 50px; 
   color: white; 
   background: transparent; 
-  display: inline-block;">
-  <u>FINAL NOTE</u> 
+  display: inline-block;
+  font-weight: 600;
+  letter-spacing: 1px;
+  margin-bottom: 20px;">
+  ⭐ FINAL NOTE 
 </div>
   
-<p> Thanks for reading! If you like this project, please ⭐ the repo and feel free to open issues or PRs. Suggestions are always welcome! </p>
+<p style="font-size: 1.1rem; line-height: 1.6;"> Thanks for reading! If you like this project, please ⭐ the repo and feel free to open issues or PRs. Suggestions are always welcome! </p>
