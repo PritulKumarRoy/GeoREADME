@@ -33,7 +33,7 @@ The smart GNSS system is an android based mobile application that provides effic
 4. OpenStreetMap lacks real-time path trajectory display based on user location data and capture coordinate ability.
 <br><br>
 
-# TECHNOLOGY STACK <img src="g.png" width="40" align="left"/>
+# TECHNOLOGY STACK <img src="d.png" width="40" align="left"/>
 <br>
 
 <table> 
