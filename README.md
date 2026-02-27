@@ -36,69 +36,88 @@ The smart GNSS system is an android based mobile application that provides effic
 # TECHNOLOGY STACK <img src="g.png" width="40" align="left"/>
 <br>
 
+<!-- Two-column layout with balanced vertical stacking -->
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between;">
-  <div style="flex: 1; min-width: 250px;">
-    <table style="width: 100%; border-collapse: separate; border-spacing: 0 10px;">
+  
+  <!-- Left column -->
+  <div style="flex: 1; min-width: 260px;">
+    <table style="width: 100%; border-collapse: separate; border-spacing: 0 12px;">
       <tr>
-        <td style="background: #1e1e1e; padding: 12px 15px; border-radius: 12px 0 0 12px; width: 60px;">
-          <img src="l1.png" width="35" style="vertical-align: middle;"/>
+        <td style="background: #1e1e1e; padding: 14px 18px; border-radius: 14px 0 0 14px; width: 70px; text-align: center;">
+          <img src="l1.png" width="38" style="vertical-align: middle; display: block; margin: 0 auto;"/>
         </td>
-        <td style="background: #1e1e1e; padding: 12px 15px; border-radius: 0 12px 12px 0; font-weight: 500;">Flutter</td>
+        <td style="background: #1e1e1e; padding: 14px 18px; border-radius: 0 14px 14px 0; font-weight: 600; font-size: 1.1rem;">Flutter</td>
       </tr>
       <tr>
-        <td style="background: #1e1e1e; padding: 12px 15px; border-radius: 12px 0 0 12px;">
-          <img src="l3.png" width="35" style="vertical-align: middle;"/>
+        <td style="background: #1e1e1e; padding: 14px 18px; border-radius: 14px 0 0 14px; text-align: center;">
+          <img src="l3.png" width="38" style="vertical-align: middle; display: block; margin: 0 auto;"/>
         </td>
-        <td style="background: #1e1e1e; padding: 12px 15px; border-radius: 0 12px 12px 0; font-weight: 500;">OpenStreetMap</td>
+        <td style="background: #1e1e1e; padding: 14px 18px; border-radius: 0 14px 14px 0; font-weight: 600; font-size: 1.1rem;">OpenStreetMap</td>
       </tr>
       <tr>
-        <td style="background: #1e1e1e; padding: 12px 15px; border-radius: 12px 0 0 12px;">
-          <img src="l5.png" width="35" style="vertical-align: middle;"/>
+        <td style="background: #1e1e1e; padding: 14px 18px; border-radius: 14px 0 0 14px; text-align: center;">
+          <img src="l5.png" width="38" style="vertical-align: middle; display: block; margin: 0 auto;"/>
         </td>
-        <td style="background: #1e1e1e; padding: 12px 15px; border-radius: 0 12px 12px 0; font-weight: 500;">Gradle</td>
+        <td style="background: #1e1e1e; padding: 14px 18px; border-radius: 0 14px 14px 0; font-weight: 600; font-size: 1.1rem;">Gradle</td>
       </tr>
       <tr>
-        <td style="background: #1e1e1e; padding: 12px 15px; border-radius: 12px 0 0 12px;">
-          <img src="l6.png" width="35" style="vertical-align: middle;"/>
+        <td style="background: #1e1e1e; padding: 14px 18px; border-radius: 14px 0 0 14px; text-align: center;">
+          <img src="l6.png" width="38" style="vertical-align: middle; display: block; margin: 0 auto;"/>
         </td>
-        <td style="background: #1e1e1e; padding: 12px 15px; border-radius: 0 12px 12px 0; font-weight: 500;">Android Studio</td>
+        <td style="background: #1e1e1e; padding: 14px 18px; border-radius: 0 14px 14px 0; font-weight: 600; font-size: 1.1rem;">Android Studio</td>
       </tr>
-    </table>
-  </div>
-  <div style="flex: 1; min-width: 250px;">
-    <table style="width: 100%; border-collapse: separate; border-spacing: 0 10px;">
+      <!-- Additional item to balance vertical space -->
       <tr>
-        <td style="background: #1e1e1e; padding: 12px 15px; border-radius: 12px 0 0 12px;">
-          <img src="l2.png" width="35" style="vertical-align: middle;"/>
+        <td style="background: #1e1e1e; padding: 14px 18px; border-radius: 14px 0 0 14px; text-align: center;">
+          <img src="l8.png" width="38" style="vertical-align: middle; display: block; margin: 0 auto;"/>
         </td>
-        <td style="background: #1e1e1e; padding: 12px 15px; border-radius: 0 12px 12px 0; font-weight: 500;">Firebase</td>
-      </tr>
-      <tr>
-        <td style="background: #1e1e1e; padding: 12px 15px; border-radius: 12px 0 0 12px;">
-          <img src="l4.png" width="35" style="vertical-align: middle;"/>
-        </td>
-        <td style="background: #1e1e1e; padding: 12px 15px; border-radius: 0 12px 12px 0; font-weight: 500;">Java JDK</td>
-      </tr>
-      <tr>
-        <td style="background: #1e1e1e; padding: 12px 15px; border-radius: 12px 0 0 12px;">
-          <img src="l8.png" width="35" style="vertical-align: middle;"/>
-        </td>
-        <td style="background: #1e1e1e; padding: 12px 15px; border-radius: 0 12px 12px 0; font-weight: 500;">Notepad</td>
-      </tr>
-      <tr>
-        <td style="background: #1e1e1e; padding: 12px 15px; border-radius: 12px 0 0 12px;">
-          <img src="l7.png" width="35" style="vertical-align: middle;"/>
-        </td>
-        <td style="background: #1e1e1e; padding: 12px 15px; border-radius: 0 12px 12px 0; font-weight: 500;">Visual Studio</td>
-      </tr>
-      <tr>
-        <td style="background: #1e1e1e; padding: 12px 15px; border-radius: 12px 0 0 12px;">
-          <img src="l9.png" width="35" style="vertical-align: middle;"/>
-        </td>
-        <td style="background: #1e1e1e; padding: 12px 15px; border-radius: 0 12px 12px 0; font-weight: 500;">Map Tiler</td>
+        <td style="background: #1e1e1e; padding: 14px 18px; border-radius: 0 14px 14px 0; font-weight: 600; font-size: 1.1rem;">Notepad</td>
       </tr>
     </table>
   </div>
+  
+  <!-- Right column -->
+  <div style="flex: 1; min-width: 260px;">
+    <table style="width: 100%; border-collapse: separate; border-spacing: 0 12px;">
+      <tr>
+        <td style="background: #1e1e1e; padding: 14px 18px; border-radius: 14px 0 0 14px; text-align: center;">
+          <img src="l2.png" width="38" style="vertical-align: middle; display: block; margin: 0 auto;"/>
+        </td>
+        <td style="background: #1e1e1e; padding: 14px 18px; border-radius: 0 14px 14px 0; font-weight: 600; font-size: 1.1rem;">Firebase</td>
+      </tr>
+      <tr>
+        <td style="background: #1e1e1e; padding: 14px 18px; border-radius: 14px 0 0 14px; text-align: center;">
+          <img src="l4.png" width="38" style="vertical-align: middle; display: block; margin: 0 auto;"/>
+        </td>
+        <td style="background: #1e1e1e; padding: 14px 18px; border-radius: 0 14px 14px 0; font-weight: 600; font-size: 1.1rem;">Java JDK</td>
+      </tr>
+      <tr>
+        <td style="background: #1e1e1e; padding: 14px 18px; border-radius: 14px 0 0 14px; text-align: center;">
+          <img src="l7.png" width="38" style="vertical-align: middle; display: block; margin: 0 auto;"/>
+        </td>
+        <td style="background: #1e1e1e; padding: 14px 18px; border-radius: 0 14px 14px 0; font-weight: 600; font-size: 1.1rem;">Visual Studio</td>
+      </tr>
+      <tr>
+        <td style="background: #1e1e1e; padding: 14px 18px; border-radius: 14px 0 0 14px; text-align: center;">
+          <img src="l9.png" width="38" style="vertical-align: middle; display: block; margin: 0 auto;"/>
+        </td>
+        <td style="background: #1e1e1e; padding: 14px 18px; border-radius: 0 14px 14px 0; font-weight: 600; font-size: 1.1rem;">Map Tiler</td>
+      </tr>
+      <!-- Empty row for visual balance (invisible) -->
+      <tr style="opacity: 0; pointer-events: none;">
+        <td style="padding: 14px 18px;"></td>
+        <td style="padding: 14px 18px;"></td>
+      </tr>
+    </table>
+  </div>
+</div>
+
+<!-- Compact note to utilize remaining horizontal space -->
+<div style="display: flex; flex-wrap: wrap; gap: 15px; margin-top: 15px; justify-content: center; background: #1a1a1a; padding: 12px 20px; border-radius: 50px;">
+  <span style="color: #ccc; font-size: 0.95rem;">⚙️ <strong>Build tools:</strong> Gradle, JDK</span>
+  <span style="color: #ccc; font-size: 0.95rem;">📱 <strong>Frameworks:</strong> Flutter, Firebase</span>
+  <span style="color: #ccc; font-size: 0.95rem;">🗺️ <strong>Mapping:</strong> OSM, Map Tiler</span>
+  <span style="color: #ccc; font-size: 0.95rem;">🖥️ <strong>IDEs:</strong> Android Studio, VS, Notepad</span>
 </div>
 <br><br>
 
